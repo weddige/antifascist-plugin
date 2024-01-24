@@ -1,5 +1,5 @@
-"Ich bin Antifaschist" ist ein Satz, der jedem ohne Schwierigkeiten von den Lippen gehen sollte, denn es gibt Themen, bei denen man nicht neutral bleiben kann, und Faschismus ist so ein Thema.
+"I am an antifascist" is a sentence that should come easily to everyone, because there are topics on which you cannot remain neutral, and fascism is such a topic.
+
+This plugin is an antifascist WordPress plugin that asks new users whether they are antifascist or fascist and thus holds up a mirror to all those who do not want to make up their mind between antifascism and fascism. Fascists are obviously not allowed to register.
 
 ![antifascist plugin](antifascist-plugin.png)
-
-Das antifaschistische Plugin ist ein Wordpress-Plugin, das diese Frage bei Neuanmeldungen stellt und so allen, die sich nicht zwischen Antifaschismus und Faschismus entscheiden wollen, einen Spiegel vorhält.
