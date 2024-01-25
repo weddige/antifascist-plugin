@@ -1,0 +1,15 @@
+#: antifascist_registration.php:31
+msgid "I am"
+msgstr ""
+
+#: antifascist_registration.php:33
+msgid "an antifascist"
+msgstr ""
+
+#: antifascist_registration.php:34
+msgid "a fascist"
+msgstr ""
+
+#: antifascist_registration.php:43
+msgid "Hate is not an opinion."
+msgstr ""
